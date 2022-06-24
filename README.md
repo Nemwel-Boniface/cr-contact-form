@@ -54,7 +54,7 @@ Live site URL to portfolio
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@Nemwel-Boniface ](https://github.com/Nemwel-Boniface)
 - Twitter: [@nemwel_bonie](https://twitter.com/nemwel_bonie)
@@ -65,17 +65,11 @@ Live site URL to portfolio
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Nemwel-Boniface/CR-Hello-Microverse/issues).
+Feel free to check the [issues page](https://github.com/Nemwel-Boniface/cr-contact-form).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
