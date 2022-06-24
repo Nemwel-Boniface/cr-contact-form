@@ -67,7 +67,7 @@ form .ftext {
   line-height: 24px;
   align-items: center;
   color: #979493;
-  border: 2px solid black;
+  border: none;
 }
 
 form .femail {
@@ -81,7 +81,7 @@ form .femail {
   line-height: 24px;
   align-items: center;
   color: #979493;
-  border: 2px solid black;
+  border: none;
 }
 
 form .ftextarea {
@@ -96,7 +96,7 @@ form .ftextarea {
   font-size: 15px;
   line-height: 24px;
   color: #3c3a39;
-  border: 2px solid black;
+  border: none;
 }
 
 form .fsubmit {
@@ -112,17 +112,17 @@ form .fsubmit {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.03em;
-  color: #000;
+  color: #fff;
   border: 2px solid black;
 }
 
 form .fsubmit:enabled {
   background: #ff6b00;
-  color: #000;
+  color: #fff;
 }
 
 form .fsubmit:hover {
-  background-color: #000;
+  background-color: #fff;
   border: 1px solid #ff6b00;
   color: #ff6b00;
 }
